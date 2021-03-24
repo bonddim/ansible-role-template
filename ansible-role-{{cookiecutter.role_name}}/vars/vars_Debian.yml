@@ -1,0 +1,2 @@
+---
+# Debian OS family vars for {{ cookiecutter.namespace }}.{{ cookiecutter.role_name }}
